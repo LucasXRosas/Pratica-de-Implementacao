@@ -20,7 +20,7 @@ Antes de começar, garante que tens instalado na tua máquina:
 Abre o teu terminal e executa o comando:
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone https://github.com/LucasXRosas/Pratica-de-Implementacao.git
 ```
 ### 2. Instalar dependências
 ```bash
